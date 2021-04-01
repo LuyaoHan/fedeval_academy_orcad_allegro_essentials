@@ -1,0 +1,1022 @@
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 16:25:52 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 16:25:52 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 16:25:52 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 16:25:52 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 16:25:52 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 16:25:52 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 16:25:52 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 16:25:52 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 16:25:52 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 16:25:52 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 16:25:52 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 16:25:52 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 16:25:54 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 16:25:54 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 16:27:26 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 16:27:26 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 16:27:26 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 16:27:26 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 16:27:26 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 16:27:26 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 16:27:26 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 16:27:26 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 16:27:26 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 16:27:26 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 16:27:26 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 16:27:26 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 16:27:27 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 16:27:27 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 16:29:25 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 16:29:25 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 16:29:25 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 16:29:25 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 16:29:25 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 16:29:25 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 16:29:25 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 16:29:25 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 16:29:25 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 16:29:25 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 16:29:25 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 16:29:25 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 16:29:27 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 16:29:27 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 16:31:21 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 16:31:21 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 16:31:21 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 16:31:21 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 16:31:21 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 16:31:21 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 16:31:21 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 16:31:21 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 16:31:21 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 16:31:21 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 16:31:21 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 16:31:21 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 16:31:22 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 16:31:22 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 16:34:01 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 16:34:01 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 16:34:01 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 16:34:01 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 16:34:01 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 16:34:01 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 16:34:01 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 16:34:01 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 16:34:01 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 16:34:01 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 16:34:01 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 16:34:01 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 16:34:04 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 16:34:04 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Thu Feb 22 08:12:45 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Thu Feb 22 08:12:45 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_04-L1.art' ----   Thu Feb 22 08:12:45 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_05-L2.art' ----   Thu Feb 22 08:12:45 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_06-L3.art' ----   Thu Feb 22 08:12:45 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_07-L4.art' ----   Thu Feb 22 08:12:45 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_08-L5.art' ----   Thu Feb 22 08:12:45 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_09-L6.art' ----   Thu Feb 22 08:12:45 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Thu Feb 22 08:12:45 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Thu Feb 22 08:12:45 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Thu Feb 22 08:12:45 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Thu Feb 22 08:12:45 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Thu Feb 22 08:12:46 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Thu Feb 22 08:12:46 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Thu Feb 22 09:39:09 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Thu Feb 22 09:39:09 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_04-L1.art' ----   Thu Feb 22 09:39:09 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_05-L2.art' ----   Thu Feb 22 09:39:09 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_06-L3.art' ----   Thu Feb 22 09:39:09 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_07-L4.art' ----   Thu Feb 22 09:39:09 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_08-L5.art' ----   Thu Feb 22 09:39:09 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_09-L6.art' ----   Thu Feb 22 09:39:09 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Thu Feb 22 09:39:09 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Thu Feb 22 09:39:09 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Thu Feb 22 09:39:09 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Thu Feb 22 09:39:09 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Thu Feb 22 09:39:10 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Released Files\V1I1\Step 1 - PCB Manufacturing\Gerber Output\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Thu Feb 22 09:39:10 2018
+
+D10   --> D175
+-----------------------------------------------------------------
